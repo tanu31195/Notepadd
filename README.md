@@ -1,2 +1,2 @@
 # Notepadd
-This is a cross-platform Notepad application
+This is a cross-platform text editor
