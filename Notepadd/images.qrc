@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>Images/Bold.png</file>
+        <file>Images/centeralign.png</file>
+        <file>Images/Copy_24x24.png</file>
+        <file>Images/Cut_24x24.png</file>
+        <file>Images/Download_24x24.png</file>
+        <file>Images/Exit_24x24.png</file>
+        <file>Images/Find_24x24.png</file>
+        <file>Images/Italic.png</file>
+        <file>Images/justify.png</file>
+        <file>Images/L.ico</file>
+        <file>Images/leftalign.png</file>
+        <file>Images/logo.ico</file>
+        <file>Images/New_24x24.png</file>
+        <file>Images/Open_24x24.png</file>
+        <file>Images/Paste_24x24.png</file>
+        <file>Images/Print_24x24.png</file>
+        <file>Images/Redo_24x24.png</file>
+        <file>Images/rightalign.png</file>
+        <file>Images/Save_24x24.png</file>
+        <file>Images/saveas.png</file>
+        <file>Images/saveas1.png</file>
+        <file>Images/Text-align-center-icon.png</file>
+        <file>Images/Text-align-justify-icon.png</file>
+        <file>Images/Text-align-left-icon.png</file>
+        <file>Images/Text-align-right-icon.png</file>
+        <file>Images/underline.png</file>
+        <file>Images/Undo_24x24.png</file>
+        <file>Images/Zoom In_24x24.png</file>
+        <file>Images/Zoom Out_24x24.png</file>
+    </qresource>
+</RCC>
